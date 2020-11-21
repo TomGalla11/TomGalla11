@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, PHP,MySQL**
 
-- 📫 How to reach me **dieweltentdecker.ml/#contact**
+- 📫 How to reach me **[My Contact Form](https://dieweltentdecker.ml/#contact)**
 
 - ⚡ Fun fact **I think funny**
 
