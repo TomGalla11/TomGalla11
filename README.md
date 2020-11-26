@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, Python🐍**
 
-- 👨‍💻Most of my projects are available at [https://dieweltentdecker.ml](https://dieweltentdecker.ml)
+- 👨‍💻Most of my projects are (soon) available at [https://dieweltentdecker.ml](https://dieweltentdecker.ml)
 
 - 💬 Ask me about **HTML, CSS, PHP,MySQL**
 
