@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **C#, Python🐍**
 
-- 👨‍💻Most of my projects are (soon) available at [https://dieweltentdecker.ml](https://dieweltentdecker.ml)
+- 👨‍💻Most of my projects are (soon) available at [None](None)
 
 - 💬 Ask me about **HTML, CSS, PHP,MySQL**
 
-- 📫 How to reach me **[My Contact Form](https://dieweltentdecker.ml/#contact)**
+- 📫 How to reach me **[My Contact Form](https://github.com)**
 
 - ⚡ Fun fact **I think funny**
 
