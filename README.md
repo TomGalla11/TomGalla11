@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#, Python🐍**
 
-- 👨‍💻Most of my projects are (soon) available at [None](None)
+- 👨‍💻Most of my projects are (soon) available
 
 - 💬 Ask me about **HTML, CSS, PHP,MySQL**
 
